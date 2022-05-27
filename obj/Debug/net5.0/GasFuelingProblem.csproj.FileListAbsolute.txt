@@ -1,0 +1,16 @@
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\bin\Debug\net5.0\GasFuelingProblem.exe
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\bin\Debug\net5.0\GasFuelingProblem.deps.json
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\bin\Debug\net5.0\GasFuelingProblem.runtimeconfig.json
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\bin\Debug\net5.0\GasFuelingProblem.runtimeconfig.dev.json
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\bin\Debug\net5.0\GasFuelingProblem.dll
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\bin\Debug\net5.0\ref\GasFuelingProblem.dll
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\bin\Debug\net5.0\GasFuelingProblem.pdb
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\obj\Debug\net5.0\GasFuelingProblem.csproj.AssemblyReference.cache
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\obj\Debug\net5.0\GasFuelingProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\obj\Debug\net5.0\GasFuelingProblem.AssemblyInfoInputs.cache
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\obj\Debug\net5.0\GasFuelingProblem.AssemblyInfo.cs
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\obj\Debug\net5.0\GasFuelingProblem.csproj.CoreCompileInputs.cache
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\obj\Debug\net5.0\GasFuelingProblem.dll
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\obj\Debug\net5.0\ref\GasFuelingProblem.dll
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\obj\Debug\net5.0\GasFuelingProblem.pdb
+C:\Users\hulik\workspace\csharp\GasFuelingProblem\obj\Debug\net5.0\GasFuelingProblem.genruntimeconfig.cache
